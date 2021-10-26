@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Feb 28 11:30:17 PST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0144-79f9-c9e2-ffffe354d790 
+on database directory /Users/bineetsharma/db/MurachDB with class loader sun.misc.Launcher$AppClassLoader@7194f467 
+Loaded from file:/Users/bineetsharma/Downloads/db-derby-10.10.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_40-b43
+user.dir=/Users/bineetsharma/Documents/workspace/JavaComp/Day2
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.9.1
+derby.system.home=/Users/bineetsharma/db
+Database Class Loader started - derby.database.classpath=''

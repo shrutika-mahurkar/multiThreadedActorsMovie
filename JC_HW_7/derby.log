@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Fri Mar 19 18:51:47 PDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0178-4d54-d0bd-00000f200000 
+on database directory D:\JAVA_PRACTICE_&_PROGRAMS\JAVA_Comprehensive_programs\JC_HW_7\BineetDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+Loaded from file:/D:/JAVA_PRACTICE_&_PROGRAMS/JAVA_Comprehensive_programs/JC_HW_7/db-derby-for-java-comp/db-derby-for-java-comp/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=D:\JAVA_PRACTICE_&_PROGRAMS\JAVA_Comprehensive_programs\JC_HW_7
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 19 18:51:47 PDT 2021: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Mar 19 18:51:47 PDT 2021:
+Shutting down instance a816c00e-0178-4d54-d0bd-00000f200000 on database directory D:\JAVA_PRACTICE_&_PROGRAMS\JAVA_Comprehensive_programs\JC_HW_7\BineetDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+----------------------------------------------------------------
